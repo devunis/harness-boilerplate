@@ -1,9 +1,9 @@
 # AGENTS.md
 
 ## Project overview
-- Purpose:
-- Key outcomes:
-- Tech stack:
+- Purpose: Provide a language-agnostic execution harness for agent-driven implementation workflows.
+- Key outcomes: consistent requirement-first delivery, repeatable local/CI checks, and explicit Definition of Done enforcement.
+- Tech stack: POSIX shell scripts, git hooks, and GitHub Actions.
 
 ## Working context rules
 - All feature work must start from `docs/requirements/*.md`.

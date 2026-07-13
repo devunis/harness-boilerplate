@@ -10,8 +10,9 @@ This repository scaffold focuses on:
 
 1. Initialize git repository.
 2. Run `scripts/install-hooks.sh`.
-3. Run `scripts/run-skills.sh --mode local --stage manual`.
-4. Customize `skills/enabled.txt` and each skill script.
+3. Create a real requirement doc from `docs/requirements/feature-template.md` (for example `docs/requirements/my-feature.md`) and keep `docs/architecture.md` up to date.
+4. Run `scripts/run-skills.sh --mode local --stage manual`.
+5. Customize `skills/enabled.txt` and each skill script.
 
 ## Structure
 
